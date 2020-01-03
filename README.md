@@ -1,5 +1,5 @@
 <h1>Dog</h1>
-<img src="https://pixabay.com/images/id-1194083/" alt="dog" width="673" hight="456">
+<img src="dog-1194083_640.jpg" alt="dog" width="673" hight="456">
 <img>
 
 <p>
